@@ -49,5 +49,5 @@ This application performs the following:
 
 1. **Clone the Repository**:
    ```bash
-   git clone <your-github-repository-link>
+   git clone https://github.com/Gone-M/comp3133_lab_ex_4.git
    cd lab4_users_database
